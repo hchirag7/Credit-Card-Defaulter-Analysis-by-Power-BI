@@ -1,6 +1,11 @@
 # Credit-Card-Defaulter-by-Power-BI
-<hr>
+
 ### Project Highlights
+* Visualized 30,000 defaulters to show demographic patterns using dashboard with various charts like multi-line chart, clustered column, stacked bar, pie chart, shape map, card, and filters or slicers
+* Utilized Power BI Data Transformation on total 26 features of data set
+* Designed dashboard with customized chart formatting & display theme and published for mobile layout as well
+
+<hr>
 
 ### Project Introduction
 Power BI is powerful data visualization tool which enables user to work with diverse dataset sources, allows data transformation and supports variety of data visualization graphs and charts. Apart from this, Power BI also gives good user interface to design dashboards and publish them, even on mobile devices with Power BI application. This project mainly intends to understand and use these features.
