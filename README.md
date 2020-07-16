@@ -1,4 +1,4 @@
-# Credit-Card-Defaulter-by-Power-BI
+# Credit-Card-Defaulter-Analysis-by-Power-BI
 
 ### Project Highlights
 * Visualized 30,000 defaulters to show demographic patterns using dashboard with various charts like multi-line chart, clustered column, stacked bar, pie chart, shape map, card, and filters or slicers
